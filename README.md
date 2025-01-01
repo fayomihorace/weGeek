@@ -1,2 +1,2 @@
 # weGeek
-Our question base words to find. 
+Our questions base words to find. 
